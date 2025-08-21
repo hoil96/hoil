@@ -10,7 +10,8 @@ namespace Tutorial_Gitub
     {
         static void Main(string[] args)
         {
-            ddd
+            console.WriteLine("Demo");
         }
     }
 }
+
